@@ -1,0 +1,8 @@
+DuckAI v0.6 - Internal Test Build
+
+Bản phát hành này được cung cấp để thử nghiệm / sử dụng cá nhân theo sự cho phép của tác giả.
+Không kèm mã nguồn Python.
+
+Vui lòng không sao chép, phân phối lại, dịch ngược hoặc sử dụng mã/chương trình ngoài phạm vi đã được cho phép.
+
+Soi gì đó bé 😏
